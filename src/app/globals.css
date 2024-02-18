@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* TODO: 色ちょっと変えたほうが良いかも。ヒーローページの一部アクセントで使うなら良いが、全部これだとキモい */
 body {
   color: #FFF;
   background: linear-gradient(162deg, rgba(2,0,36,1) 0%, rgba(34,34,158,1) 40%, rgba(2,176,212,1) 100%);
