@@ -4,7 +4,8 @@ import CorpName from "./CorpName";
 
 export default function Header() {
   return (
-    <Box className="bg-gray-50 text-slate-900 p-2">
+    // TODO: これで良いかあとで確認
+    <Box className="bg-gray-50 text-slate-900 px-2 pt-2">
       <header className="flex">
         <Box className="flex-none">
           <CorpName />

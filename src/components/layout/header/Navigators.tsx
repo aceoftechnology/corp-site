@@ -5,6 +5,7 @@ export default function Navigators() {
     <Box className="flex flex-row-reverse">
       <nav className="list-none">
         <ul className="flex">
+          {/* TODO: mapで書く */}
           <li className="m-2">Home</li>
           <li className="m-2">About</li>
           <li className="m-2">Service</li>
