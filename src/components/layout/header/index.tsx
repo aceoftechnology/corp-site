@@ -1,6 +1,6 @@
-import { Box, Divider } from "@mui/material";
-import Navigators from "./Navigators";
-import CorpName from "./CorpName";
+import { Box, Divider } from '@mui/material';
+import Navigators from './Navigators';
+import CorpName from './CorpName';
 
 export default function Header() {
   return (

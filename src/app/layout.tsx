@@ -1,12 +1,12 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import "./globals.css";
+import type { Metadata } from 'next';
+import { Inter } from 'next/font/google';
+import './globals.css';
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: "Ace of Technology",
-  description: "Ace of Technologyはフルスタック型で問題解決を行う専門集団です。",
+  title: 'Ace of Technology',
+  description: 'Ace of Technologyはフルスタック型で問題解決を行う専門集団です。',
 };
 
 export default function RootLayout({
